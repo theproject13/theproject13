@@ -12,9 +12,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=theproject13.theproject13&" />
 </div>
 
----
-
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there Wellcomme in my Github Repository👋</h1>
 
 ### 👩‍💻 About Me
 I'm from Indonesia, I'm a junior developer!
