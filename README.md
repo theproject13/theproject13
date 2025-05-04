@@ -12,7 +12,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=theproject13.theproject13&" />
 </div>
 
-<h1 align="center">Hey there Wellcomme in my Github Repository👋</h1>
+<h2 align="center">Hey there Wellcomme in my Github Repository👋</h2>
 
 ### 👩‍💻 About Me
 I'm from Indonesia, I'm a junior developer!
@@ -30,7 +30,6 @@ I'm from Indonesia, I'm a junior developer!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/modx/modx-original.svg" height="40" alt="MODX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
 
