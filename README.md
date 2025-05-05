@@ -12,7 +12,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=theproject13.theproject13&" />
 </div>
 
-<h2 align="center">Hey there Wellcomme in my Github Repository👋</h2>
+<h2 align="center">Hey There Wellcome in my Github Repository👋</h2>
 
 ### About Me
 💻With my laptop in hand and my imagination as my compass, I’m planning a journey, one pixel perfected, one function written, and one breakthrough at a time.
