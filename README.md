@@ -1,4 +1,10 @@
-![Header](./github-header-image.png)
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEjHOyXKi2T5w/profile-displaybackgroundimage-shrink_200_800/B56Zjhd_2AHUAg-/0/1756129400003?e=1764201600&v=beta&t=PAT04rKqjwZc5qivgtdPEFR4cSAamJyb8bmldTI27CQ" 
+       alt="Header Banner" 
+       width="100%" 
+       style="border-radius: 10px;" />
+</div>
+
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
@@ -8,6 +14,12 @@
   <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/iqbal-baharsyah-4332741a1/)"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" /></a>
   <a href="https://twitter.com/"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" /></a>
+   <a href="https://github.com/theproject13">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub" /> </a>
+  <a href="https://dwnart.blogspot.com" title="Visit My Blog">  <img src="https://img.shields.io/badge/My%20Blog-FF4088?style=for-the-badge&logo=blogger&logoColor=white" 
+         alt="My Blog Badge" /> </a>
+   <a href="https://wa.me/6289518430213" title="Chat me on WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" /> </a>
 </div>
 
 <div align="center">
